@@ -1,0 +1,8 @@
+(rough list, details to be added soon):
+
+numpy
+pandas
+matplotlib
+tsfresh
+sklearn
+xgboost
