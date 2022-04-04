@@ -15,7 +15,7 @@ Here is the beginning of the article on the NASA site (https://www.nasa.gov/feat
 The count of confirmed exoplanets just ticked past the 5,000 mark, representing a 30-year journey of discovery led by NASA space telescopes.
 Not so long ago, we lived in a universe with only a small number of known planets, all of them orbiting our Sun. But a new raft of discoveries marks a scientific high point: More than 5,000 planets are now confirmed to exist beyond our solar system.
 
-![Image from https://www.nasa.gov/feature/jpl/cosmic-milestone-nasa-confirms-5000-exoplanets](img/exoplanet1.jpg)
+![](img/exoplanet1.jpg)
 Image from https://www.nasa.gov/feature/jpl/cosmic-milestone-nasa-confirms-5000-exoplanets.
 
 ## Data
