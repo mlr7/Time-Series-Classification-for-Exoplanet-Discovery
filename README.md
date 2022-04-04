@@ -1,6 +1,9 @@
 # Time-Series-Classification-for-Exoplanet-Discovery
 Time series classification machine learning techniques for the discovery of exoplanet signatures in light curves.
 
+![](img/exoplanet1.jpg)
+Image from https://www.nasa.gov/feature/jpl/cosmic-milestone-nasa-confirms-5000-exoplanets.
+
 ## Introduction
 
 Exoplanets are planets that orbit stars other than our Sun. Exoplanets can be discovered by researchers on Earth in several ways.
@@ -15,8 +18,6 @@ Here is the beginning of the article on the NASA site (https://www.nasa.gov/feat
 "The count of confirmed exoplanets just ticked past the 5,000 mark, representing a 30-year journey of discovery led by NASA space telescopes.
 Not so long ago, we lived in a universe with only a small number of known planets, all of them orbiting our Sun. But a new raft of discoveries marks a scientific high point: More than 5,000 planets are now confirmed to exist beyond our solar system."
 
-![](img/exoplanet1.jpg)
-Image from https://www.nasa.gov/feature/jpl/cosmic-milestone-nasa-confirms-5000-exoplanets.
 
 ## Data
 
