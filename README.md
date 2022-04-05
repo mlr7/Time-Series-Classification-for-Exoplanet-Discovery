@@ -33,6 +33,12 @@ Many strategies exist to address imbalanced datasets in machine learning problem
 
 We will implement several of these in this notebook and study the impact they have on our models.
 
+## Feature Extraction
+
+We transform the time series classification problem into a tabular matrix of features by extracting features from the time series. 
+The Time Series FeatuRe Extraction on the basis of Scalable Hypothesis tests (tsfresh) library of feature extractors was used to 
+accomplish the extraction. See Christ, Maximilian, et al. "Time series feature extraction on basis of scalable hypothesis tests (tsfresh–a python package)." Neurocomputing 307 (2018): 72-77, for details on the library.
+
 ## Model
 
 Several models and model variations are implemented in the study. These include:
